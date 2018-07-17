@@ -1,7 +1,7 @@
 json-test
 ==================
 
-An specification abiding implementation of [JSON](https://www.json.org/) [RFC-7159](https://tools.ietf.org/html/rfc7159)
+A specification abiding implementation of [JSON](https://www.json.org/) [RFC-7159](https://tools.ietf.org/html/rfc7159)
 using [alex](https://www.haskell.org/alex/) and [happy](https://www.haskell.org/happy/).
 
 ### Usage
