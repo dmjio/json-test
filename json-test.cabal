@@ -20,6 +20,7 @@ library
     bytestring,
     base,
     criterion,
+    hw-json,
     QuickCheck,
     quickcheck-instances,
     scientific,

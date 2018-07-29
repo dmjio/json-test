@@ -1,6 +1,6 @@
 { mkDerivation, aeson, alex, array, base, bytestring, criterion
-, happy, QuickCheck, quickcheck-instances, scientific, stdenv, text
-, unordered-containers, vector
+, happy, hw-json, QuickCheck, quickcheck-instances, scientific
+, stdenv, text, unordered-containers, vector
 }:
 mkDerivation {
   pname = "json-test";
@@ -9,7 +9,7 @@ mkDerivation {
   isLibrary = true;
   isExecutable = true;
   libraryHaskellDepends = [
-    aeson array base bytestring criterion QuickCheck
+    aeson array base bytestring criterion hw-json QuickCheck
     quickcheck-instances scientific text unordered-containers vector
   ];
   libraryToolDepends = [ alex happy ];
