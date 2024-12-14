@@ -2,7 +2,7 @@
 -- |
 -- Module      : JSON.Gen
 -- Description : Mock JSON generator
--- Maintainer  : David Johnson <david@urbint.com>
+-- Maintainer  : David Johnson <code@dmj.io>
 -- Maturity    : Usable
 --
 --------------------------------------------------------------------------------

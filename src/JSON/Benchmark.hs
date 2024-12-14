@@ -3,7 +3,7 @@
 -- |
 -- Module      : JSON.Benchmark
 -- Description : Benchmarks of JSON parsing
--- Maintainer  : David Johnson <david@urbint.com>
+-- Maintainer  : David Johnson <code@dmj.io>
 -- Maturity    : Usable
 --
 --------------------------------------------------------------------------------

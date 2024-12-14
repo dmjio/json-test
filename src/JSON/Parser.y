@@ -4,7 +4,7 @@
 -- |
 -- Module      : JSON.Parser
 -- Description : Parser for the JSON specification
--- Maintainer  : David Johnson <david@urbint.com>
+-- Maintainer  : David Johnson <code@dmj.io>
 -- Maturity    : Usable
 --
 --------------------------------------------------------------------------------

@@ -4,7 +4,7 @@
 -- |
 -- Module      : JSON.Lexer
 -- Description : Lexer / Tokenizer of a JSON document
--- Maintainer  : David Johnson <david@urbint.com>
+-- Maintainer  : David Johnson <code@dmj.io>
 -- Maturity    : Usable
 --
 --------------------------------------------------------------------------------
